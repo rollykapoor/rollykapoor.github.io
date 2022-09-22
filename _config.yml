@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Rolly Kapoor"
 title_separator          : "-"
 name                     : &name "Rolly Kapoor"
-description              : &description "PhD Student in Economics, UC Santa Cruz"
-url                      : https://rollykapoor.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "PhD Candidate in Economics, UC Santa Cruz"
+url                      : rollykapoor.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rollykapoor.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -75,14 +75,14 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  
 
 
 # Site Author
 author:
   name             : "Rolly Kapoor"
-  avatar           : "profile.png"
-  bio              : "Economics PhD Student, UC Santa Cruz"
+  avatar           : "profile_rolly.jpg"
+  bio              : "Economics PhD Candidate, UC Santa Cruz"
   location         : "Santa Cruz, California"
   employer         :
   pubmed           : 
