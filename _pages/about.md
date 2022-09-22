@@ -8,5 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[Curriculum Vitae](https://github.com/rollykapoor/rollykapoor.github.io/tree/master/files/Rolly_Academic_CV.pdf)
+[Curriculum Vitae](https://github.com/rollykapoor/rollykapoor.github.io/tree/master/files/Rolly_Academic_CV.pdf) 
+
+
 Email: [rokapoor@ucsc.edu](mailto:rokapoor@ucsc.edu)
