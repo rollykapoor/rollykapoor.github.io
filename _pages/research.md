@@ -1,9 +1,4 @@
 
----
-title: "Research"
-permalink: /research/
-author_profile: true
----
 
 <h2> Publications </h2>
 
@@ -21,7 +16,7 @@ author_profile: true
 <h2> Works in progress </h2>
 
 **"Together to Work? Effect of Travel Buddies on Women’s Employment and Mobility in India"** <br/>
-**Pilot Completed**
+Pilot Completed
 <details>
   <summary>Abstract</summary>
 
@@ -29,12 +24,19 @@ author_profile: true
 </details>
 <br/>
 
-- "The Girl on the Train: Effect of Delhi Metro Transit System on Women’s Employment" (with with Anirban Sanyal)\\
+**"The Girl on the Train: Effect of Delhi Metro Transit System on Women’s Employment" (with with Anirban Sanyal)**
+<br/>
 
-- "Remoteness and Input Market Access in Rural Malawi and Liberia" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/),  [David Sungho Park](https://dshpark.com/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
-**Working paper coming soon**
 
-- "The Sooner the Better: Evaluating the effect of Forecast-Based Action in Kenya", with(with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
+**"Remoteness and Input Market Access in Rural Malawi and Liberia" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/),  [David Sungho Park](https://dshpark.com/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))**
+Working paper coming soon
 
-- “Understanding Factors for Adoption of Modern Contraceptives: An Experiment with Private-sector Health Providers in Liberia”** (with [David Sungho Park](https://dshpark.com/) and [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/)). \\
+<br/>
+
+**"The Sooner the Better: Evaluating the effect of Forecast-Based Action in Kenya", with(with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))**
+
+<br/>
+
+**“Understanding Factors for Adoption of Modern Contraceptives: An Experiment with Private-sector Health Providers in Liberia”** (with [David Sungho Park](https://dshpark.com/) and [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/)).**
+<br/>
 
