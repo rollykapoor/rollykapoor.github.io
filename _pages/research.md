@@ -14,7 +14,7 @@
 
 <h2> Works in progress </h2>
 
-**"Together to Work? Effect of Travel Buddies on Women’s Employment and Mobility in India"**
+**"Together to Work? Effect of Travel Buddies on Women’s Employment and Mobility in India"** \\
 Pilot Completed
 <br/>
 
