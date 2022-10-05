@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Research"
-    url: _pages/research/
+    url: /_pages/research/
 
   - title: "Teaching"
     url: /teaching/    
