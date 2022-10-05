@@ -1,5 +1,4 @@
 
-
 <h2> Publications </h2>
 
 - (2022) ["God is in the Rain: The Impact of Rainfall-Induced Early Social Distancing on COVID-19 Outbreaks"](/files/covid_jhe.pdf) (with [Ajay Shenoy](https://people.ucsc.edu/~azshenoy/), Bhavyaa Sharma, [Guanghong Xu](https://guanghongxu.github.io/), Haedong Rho, and Kinpritma Sangha)\\
