@@ -34,6 +34,6 @@ Working paper coming soon
 **"The Sooner the Better: Evaluating the effect of Forecast-Based Action in Kenya"** (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))
 <br/>
 
-**“Understanding Factors for Adoption of Modern Contraceptives: An Experiment with Private-sector Health Providers in Liberia”** (with [David Sungho Park](https://dshpark.com/) and [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/)).
+**“Understanding Factors for Adoption of Modern Contraceptives: An Experiment with Private-sector Health Providers in Liberia”** (with [David Sungho Park](https://dshpark.com/) and [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/))
 <br/>
 
