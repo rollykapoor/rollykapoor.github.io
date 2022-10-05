@@ -16,7 +16,7 @@ author_profile: true
 - Winter 2022
 
 ### ECON 100A: Intermediate Microeconomics
-- Spring 2020, Summer 2020, Spring 21
+- Spring 2020, Summer 2020, Spring 2021
 
 ### ECON 120: Development Economics
 - Fall 2021 

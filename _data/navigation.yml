@@ -4,7 +4,7 @@ main:
     url: /_pages/research/
 
   - title: "Teaching"
-    url: /_pages/teaching/    
+    url: /teaching/    
         
   - title: "CV"
     url: /files/Rolly_Academic_CV.pdf
