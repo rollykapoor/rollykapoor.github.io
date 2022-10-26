@@ -26,3 +26,12 @@ author_profile: true
 <!-- - [Winter 2021 (Jessie Q. Li)](/econ217_w21/) -->
 
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6R03Z19W47"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6R03Z19W47');
+</script>
