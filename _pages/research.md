@@ -14,7 +14,7 @@
 
 <h2> Works in progress </h2>
 
-**"Together to Work? Effect of Travel Buddies on Women’s Employment and Mobility in India"** \\
+**"Together to Work? Effect of Travel Buddies on Women’s Employment and Mobility in India"** (with Smit Gade) \\
 Pilot Completed
 <br/>
 
@@ -28,6 +28,15 @@ Working paper coming soon
 **"The Sooner the Better: Evaluating the effect of Forecast-Based Action in Kenya"** (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))
 <br/>
 
-**“Understanding Factors for Adoption of Modern Contraceptives: An Experiment with Private-sector Health Providers in Liberia”** (with [David Sungho Park](https://dshpark.com/) and [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/)).
+**“Understanding Factors for Adoption of Modern Contraceptives: An Experiment with Private-sector Health Providers in Liberia”** (with [David Sungho Park](https://dshpark.com/) 
 <br/>
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6R03Z19W47"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6R03Z19W47');
+</script>

@@ -6,6 +6,9 @@ author_profile: true
 
 <h2> University of California, Santa Cruz </h2>
 
+### ECON 217: Econometric Analysis 2
+- Winter 2023
+
 ### ECON 113: Introduction to Econometrics
 - Fall 2022
 
@@ -16,7 +19,7 @@ author_profile: true
 - Winter 2022
 
 ### ECON 100A: Intermediate Microeconomics
-- Spring 2020, Summer 2020, Spring 2021
+- Spring 2020, Summer 2020, Spring 2021, Spring 2023
 
 ### ECON 120: Development Economics
 - Fall 2021 
