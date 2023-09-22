@@ -15,14 +15,13 @@
 <h2> Works in progress </h2>
 
 **"Together to Work? Effect of Travel Buddies on Women’s Employment and Mobility in India"** (with Smit Gade) \\
-Pilot Completed
+Intervention Ongoing
 <br/>
 
 **"The Girl on the Train: Effect of Delhi Metro Transit System on Women’s Employment"** (with Anirban Sanyal)
 <br/>
 
-**"Remoteness and Input Market Access in Rural Malawi and Liberia"** (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/),  [David Sungho Park](https://dshpark.com/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))
-Working paper coming soon
+**"[Going the Extra Mile: Farm Subsidies and Spatial Convergence in Agricultural Input Adoption](/files/FISP.pdf)"** (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/),  [David Sungho Park](https://dshpark.com/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))
 <br/>
 
 **"The Sooner the Better: Evaluating the effect of Forecast-Based Action in Kenya"** (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))

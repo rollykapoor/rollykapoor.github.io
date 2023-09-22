@@ -6,6 +6,9 @@ author_profile: true
 
 <h2> University of California, Santa Cruz </h2>
 
+### Instructor for Econ 100A: Intermediate  Microeconomics
+-Summer 2023
+
 ### ECON 217: Econometric Analysis 2
 - Winter 2023
 
