@@ -8,7 +8,7 @@ Reject and Resubmit, _Economic Journal_
 
 
 (2022) ["God is in the Rain: The Impact of Rainfall-Induced Early Social Distancing on COVID-19 Outbreaks"](https://www.sciencedirect.com/science/article/pii/S0167629621001600) (with [Ajay Shenoy](https://people.ucsc.edu/~azshenoy/), Bhavyaa Sharma, [Guanghong Xu](https://guanghongxu.github.io/), Haedong Rho, and Kinpritma Sangha)\\
-**_Journal of Health Economics_ 81: 102575**
+_Journal of Health Economics_ 81: 102575
   
 
 
