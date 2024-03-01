@@ -3,7 +3,7 @@
 
 
 
-"[Going the Extra Mile: Farm Subsidies and Spatial Convergence in Agricultural Input Adoption](/files/FISP.pdf)"** (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/),  [David Sungho Park](https://dshpark.com/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
+"[Going the Extra Mile: Farm Subsidies and Spatial Convergence in Agricultural Input Adoption](/files/FISP.pdf)" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/),  [David Sungho Park](https://dshpark.com/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
 Reject and Resubmit, _Economic Journal_ 
 
 
