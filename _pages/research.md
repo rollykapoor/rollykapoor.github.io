@@ -18,7 +18,7 @@ _Journal of Health Economics_ 81: 102575
 
 <h2> Works in progress </h2>
 
-**"Together to Work? Effect of Travel Buddies on Women’s Employment and Mobility in India"** (with Smit Gade) \\
+**"Together to Work? Effect of Travel Buddies on Women’s Job Search and Mobility in India"** (with Smit Gade) \\
 Intervention Ongoing
 <br/>
 
@@ -27,7 +27,7 @@ Background and Scoping Complete
 
 **“Understanding Factors for Adoption of Modern Contraceptives: An Experiment with Private-sector Health Providers in Liberia”** (with [David Sungho Park](https://dshpark.com/))
 
-**"The Girl on the Train: Effect of Delhi Metro Transit System on Women’s Employment"** (with Anirban Sanyal)
+**"The Girl on the Train: Effect of Delhi Metro Transit System on Women’s Employment"** (with Moumita Das)
 <br/>
 
 <br/>
