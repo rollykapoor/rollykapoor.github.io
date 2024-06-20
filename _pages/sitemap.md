@@ -35,3 +35,5 @@ A list of all the posts and pages found on the site. For you robots out there is
   {% endunless %}
 {% endfor %}
 {% endfor %}
+[Verification](/files/google0ace972a0d8fb2d1.html) 
+
