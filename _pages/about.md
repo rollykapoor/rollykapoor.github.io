@@ -1,6 +1,5 @@
 ---
 permalink: /
-layout: default
 title: "About Me"
 excerpt: "I am an Economics PhD Candidate at the Department of Economics, University of California, Santa Cruz. My research focuses on issues related to gender, access and urban mobility in developing countries. I have ongoing projects in Africa and India. I received a BA Honors in Economics from Delhi University and MSc in Economics from University College London (UCL)."
 author_profile: true
