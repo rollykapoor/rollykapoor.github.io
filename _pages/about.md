@@ -15,11 +15,11 @@ I am a PhD Candidate at the Department of Economics, University of California, S
 Email: [rokapoor@ucsc.edu](mailto:rokapoor@ucsc.edu)
 
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-6R03Z19W47"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-E992YC4LRG"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-6R03Z19W47');
+  gtag('config', 'G-E992YC4LRG');
 </script>
