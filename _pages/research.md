@@ -18,14 +18,12 @@ _Journal of Health Economics_ 81: 102575
 
 <h2> Works in progress </h2>
 
-**"Together to Work? Effect of Travel Buddies on Women’s Job Search and Mobility in India"** (with Smit Gade) \\
-Intervention Ongoing
+**\["Job Market Paper"\] "Together to Work? Effect of Travel Buddies on Women’s Job Search and Mobility in India"** (with Smit Gade) \\
+Draft coming soon
 <br/>
 
-**"Search Costs and Women’s Employment: Evidence from a Field Experiment in Urban India"** (with Monica Shandal)\\
-Background and Scoping Complete
-
-**“Understanding Factors for Adoption of Modern Contraceptives: An Experiment with Private-sector Health Providers in Liberia”** (with [David Sungho Park](https://dshpark.com/))
+**"Search Costs and Women’s Employment: Evidence from a Field Experiment in Urban India"** (with Monica Shandal and[David Sungho Park](https://dshpark.com/) )\\
+Pilot ongoing
 
 **"The Girl on the Train: Effect of Delhi Metro Transit System on Women’s Employment"** (with Moumita Das)
 <br/>
