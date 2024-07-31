@@ -22,7 +22,7 @@ _Journal of Health Economics_ 81: 102575
 Draft coming soon
 <br/>
 
-**"Search Costs and Women’s Employment: Evidence from a Field Experiment in Urban India"** (with Monica Shandal and [David Sungho Park](https://dshpark.com/) )\\
+**"Understanding Gendered Differences in Job Search Behavior: Evidence from Urban India"** (with Monica Shandal and [David Sungho Park](https://dshpark.com/) )\\
 Pilot ongoing
 
 **"The Girl on the Train: Effect of Delhi Metro Transit System on Women’s Employment"** (with Moumita Das)
