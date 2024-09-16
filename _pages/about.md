@@ -12,15 +12,14 @@ redirect_from:
 Email: [rokapoor@ucsc.edu](mailto:rokapoor@ucsc.edu)
 
 
-I am a PhD Candidate at the Department of Economics, University of California, Santa Cruz. My primary fields of interest are Development Economics and Labor, with focus on gender and physcial moiblity. \\
+I am a PhD Candidate at the Department of Economics, University of California, Santa Cruz. My primary fields of interest are Development Economics and Labor, with focus on gender and physcial moiblity. 
 
-\\
 
-My job market paper studies the role of womnen's reliance on companions and group travel on their job search outcomes in India. \\
-\\
+My job market paper studies the role of womnen's reliance on companions and group travel on their job search outcomes in India. 
 
-** I am on the Economics job market starting Fall 2024 and I am available for interviews ** \\
-\\
+
+**I am on the Economics job market starting Fall 2024 and I am available for interviews**
+
 
 References: 
 Professor [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home)(Advisor)
