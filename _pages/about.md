@@ -22,8 +22,8 @@ My job market paper studies the role of womnen's reliance on companions and grou
 
 
 References: \\
-Professor [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home)(Advisor) \\
-Professor [Alan Spearot] (https://sites.google.com/view/acspearot/home) \\
-Professor [Ajay Shenoy] (https://people.ucsc.edu/~azshenoy/) \\
+Professor [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home) (Advisor) \\
+Professor [Alan Spearot](https://sites.google.com/view/acspearot/home) \\
+Professor [Ajay Shenoy](https://people.ucsc.edu/~azshenoy/) \\
 
 
