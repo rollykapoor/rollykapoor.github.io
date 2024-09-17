@@ -18,7 +18,7 @@ _Journal of Health Economics_ 81: 102575
 
 <h2> Works in progress </h2>
 
-\[Job Market Paper\] **"Together to Work? Effect of Travel Buddies on Women’s Job Search and Mobility in India"** (with Smit Gade) \\
+\[Job Market Paper\] **"Together to Work? Effect of Travel Buddies on Women’s Job Search in Urban India"** (with Smit Gade) \\
 Draft coming soon
 <br/>
 
