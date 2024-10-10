@@ -2,7 +2,7 @@
 
 <h2> Job Market Paper </h2>
 
-**Together in Search: Experimental Evidence from Coordinating Travel Among Women Job-Seekers in Urban India** (with[Smit Gade](https://goodbusinesslab.org/team/smit-gade-2/)) \\
+**Together in Search: Experimental Evidence from Coordinating Travel Among Women Job-Seekers in Urban India** (with [Smit Gade](https://goodbusinesslab.org/team/smit-gade-2/)) \\
 Draft available soon
 <br/>
 
@@ -17,11 +17,7 @@ Reject and Resubmit, _Economic Journal_
 
 (2022) [God is in the Rain: The Impact of Rainfall-Induced Early Social Distancing on COVID-19 Outbreaks](https://www.sciencedirect.com/science/article/pii/S0167629621001600) (with [Ajay Shenoy](https://people.ucsc.edu/~azshenoy/), Bhavyaa Sharma, [Guanghong Xu](https://guanghongxu.github.io/), Haedong Rho, and Kinpritma Sangha)\\
 _Journal of Health Economics_ 81: 102575
-  
-
-
 <br/>
-
 
 
 <h2> Works in progress </h2>
@@ -36,7 +32,6 @@ Pilot completed
 **The Girl on the Train: Effect of Delhi Metro Transit System on Women’s Employment** (with Moumita Das)
 <br/>
 
-<br/>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-6R03Z19W47"></script>
