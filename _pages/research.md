@@ -25,7 +25,7 @@ _Journal of Health Economics_ 81: 102575
 **Enhancing Women’s Employment Outcomes: Mitigating Travel Cost and Information Barriers in Employer-Provided Creches** (with [Achyuta Adhvaryu](https://www.achadhvaryu.com/), [Anant Nyshadham](https://www.anantnn.com/), and [Smit Gade](https://goodbusinesslab.org/team/smit-gade-2/))
 
 
-**Understanding Gendered Differences in Job Search Behavior: Evidence from Urban India** (with[David Sungho Park](https://dshpark.com/) and Monica Shandal)\\
+**Understanding Gendered Differences in Job Search Behavior: Evidence from Urban India** (with [David Sungho Park](https://dshpark.com/) and Monica Shandal)\\
 Pilot completed
 
 
