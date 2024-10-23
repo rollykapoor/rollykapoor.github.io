@@ -18,6 +18,8 @@ My primary fields of interest are Development and Labor Economics. I study topic
 
 
 **I am on the 2024-25 Economics Job Market.**
+ 
+ For my [job market paper](/files/Rolly_Kapoor_JMP.pdf), I investigate how coordinated travel among job-seeking women in India can improve their job search outcomes and employment. 
 
 
 References: \\
