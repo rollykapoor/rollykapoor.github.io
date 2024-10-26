@@ -17,7 +17,7 @@
 
 
 
-[Going the Extra Mile: Farm Subsidies and Spatial Convergence in Agricultural Input Adoption](/files/FISP.pdf) (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/),  [David Sungho Park](https://dshpark.com/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
+[Going the Extra Mile: Farm Subsidies and Spatial Convergence in Agricultural Input Adoption](/files/FISP.pdf) (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Dahyeon Jeong](https://dahyeonjeong.com/), [Naresh Kumar](https://sites.google.com/ucsc.edu/nkumar/),  [David Sungho Park](https://dshpark.com/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))
 
 (2023) [Impacts of the COVID lockdown on household incomes: evidence from Punjab, India](https://link.springer.com/article/10.1007/s00181-023-02464-0) (with Anirban Sanyal, and [Nirvikar Singh](https://nirvikarsingh.sites.ucsc.edu/)), _Empirical Economics_
 
