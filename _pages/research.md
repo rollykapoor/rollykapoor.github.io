@@ -10,7 +10,8 @@
     Many Indian women only travel with companions to navigate restrictive social norms and safety concerns, which can limit their job search if companions are unavailable. Coordinating travel with job-seeking women can help, but they may not know each other. To address this, we match job-seeking women within neighborhoods and randomly vary whether they can coordinate their travel to factory interviews by scheduling interviews on same dates or on different dates. Matching and coordinated travel increases interview attendance by 85%; it is significantly more effective for women who knew fewer women at baseline and reported feeling unsafe when traveling. Only matching has no effect. Matching and coordinated travel also improves job search beyond the interview experiment: women are 78% more likely to visit prospective employers and make twice as many trips. We show that the effects on interview attendance and job search are driven by women coordinating their travel. 
   </p>
 
-<p style="font-size:10px; font-weight: normal; color: gray; margin-top: 10px;">Coverage</p>
+<p style="font-size:13px; font-weight: normal; color: gray; margin-top: 13px;">Coverage</p>
+[Ideas of India Podcast](https://www.mercatus.org/ideasofindia/rolly-kapoor-group-travel-and-womens-job-search-behavior-india)
 
 
 <br/>
@@ -25,7 +26,7 @@
 (2023) [Impacts of the COVID lockdown on household incomes: evidence from Punjab, India](https://link.springer.com/article/10.1007/s00181-023-02464-0) (with Anirban Sanyal, and [Nirvikar Singh](https://nirvikarsingh.sites.ucsc.edu/)), _Empirical Economics_
 
 
-(2022) [God is in the Rain: The Impact of Rainfall-Induced Early Social Distancing on COVID-19 Outbreaks](https://www.sciencedirect.com/science/article/pii/S0167629621001600) (with [Ajay Shenoy](https://people.ucsc.edu/~azshenoy/), Bhavyaa Sharma, [Guanghong Xu](https://guanghongxu.github.io/), Haedong Rho, and Kinpritma Sangha), _Journal of Health Economics_ 81: 102575
+(2022) [God is in the Rain: The Impact of Rainfall-Induced Early Social Distancing on COVID-19 Outbreaks](https://www.sciencedirect.com/science/article/pii/S0167629621001600) (with [Ajay Shenoy](https://people.ucsc.edu/~azshenoy/), [Bhavyaa Sharma](https://www.bhavyaasharma.com/), [Guanghong Xu](https://guanghongxu.github.io/), [Haedong Rho](https://www.ha-rho.com/about), and Kinpritma Sangha), _Journal of Health Economics_ 81: 102575
 <br/>
 
 
