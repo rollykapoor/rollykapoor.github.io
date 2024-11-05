@@ -12,7 +12,7 @@
 
 <p style="font-size:13px; font-weight: normal; margin-top: 13px;"> Media Coverage</p>
 <p style="font-size:13px;text-align: justify;">
-  [Ideas of India Podcast](https://www.mercatus.org/ideasofindia/rolly-kapoor-group-travel-and-womens-job-search-behavior-india)
+  <a href="https://www.mercatus.org/ideasofindia/rolly-kapoor-group-travel-and-womens-job-search-behavior-india">Ideas of India Podcast</a>
 </p>
 
 <br/>
