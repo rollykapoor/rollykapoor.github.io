@@ -34,7 +34,7 @@
 
 <h2> Works in progress </h2>
 
-**Enhancing Women’s Employment Outcomes: Mitigating Travel Cost and Information Barriers in Employer-Provided Creches** (with [Achyuta Adhvaryu](https://www.achadhvaryu.com/), [Anant Nyshadham](https://www.anantnn.com/), and [Smit Gade](https://goodbusinesslab.org/team/smit-gade-2/))
+**Enhancing Women’s Employment Outcomes: Mitigating Travel Cost and Information Barriers in Employer-Provided Creches** (with [Achyuta Adhvaryu](https://www.achadhvaryu.com/), [Smit Gade](https://goodbusinesslab.org/team/smit-gade-2/)), and [Anant Nyshadham](https://www.anantnn.com/),
 
 
 **Understanding Gendered Differences in Job Search Behavior: Evidence from Urban India** (with [David Sungho Park](https://dshpark.com/) and Monica Shandal)\\
