@@ -7,7 +7,7 @@
 
   <summary><strong>Abstract</strong></summary>
   <p style="font-size: 13px;text-align: justify;">
-    In many developing countries, women's physical mobility is limited by barriers like safety concerns and traditional social norms. To navigate these barriers, women typically only travel with companions  &mdash; which could limit their job search if the companions are unavailable. Coordinating travel with job-seeking women could help, but they may not know each other. We address this issue through an experiment in urban India. We match job-seeking women within neighborhoods and randomly vary whether they can coordinate their travel to factory interviews by scheduling them on the same date or on different dates. Matching and coordinating travel increases interview attendance by 85%, with significantly stronger effects for women who knew fewer people at baseline and reported feeling unsafe when traveling. The treatment also improves job search beyond the interview experiment: women are 78% more likely to visit prospective employers and make twice as many trips. We present evidence showing that the effects on interview attendance and job search are driven by women coordinating their travel with each other and that matching without coordination has no effects. any trips. We show that the effects on interview attendance and job search are driven by women coordinating their travel. 
+    In many developing countries, barriers like safety concerns and traditional social norms limit women’s physical mobility. To navigate these barriers, women typically only travel with companions—which could limit their job search if the companions are unavailable. Coordinating travel with job-seeking women could help, but they may not know each other. We address this constraint in a field experiment in urban India. We match job-seeking women within neighborhoods and randomly vary whether they can coordinate their travel to factory interviews by scheduling them on the same date or on different dates. Matching and coordinating travel increases interview attendance by 85%. The effects are stronger for women who knew fewer women at baseline and reported feeling unsafe when traveling. The treatment also improves job search beyond the interview experiment: women are 78% more likely to visit prospective employers and make twice as many trips. We present evidence showing that the effects on interview attendance and job search are driven by women coordinating their travel with each other and that matching without coordination has no effects 
   </p>
 
 <p style="font-size:13px; font-weight: 500; margin-top: 14px;">Media Coverage</p>
@@ -34,11 +34,12 @@
 
 <h2> Works in progress </h2>
 
-**Enhancing Women’s Employment Outcomes: Mitigating Travel Cost and Information Barriers in Employer-Provided Creches** (with [Achyuta Adhvaryu](https://www.achadhvaryu.com/), [Smit Gade](https://goodbusinesslab.org/team/smit-gade-2/), and [Anant Nyshadham](https://www.anantnn.com/))
+**Enhancing Women’s Employment Outcomes: Mitigating Travel Cost and Information Barriers in Employer-Provided Creches** (with [Achyuta Adhvaryu](https://www.achadhvaryu.com/), [Smit Gade](https://goodbusinesslab.org/team/smit-gade-2/), and [Anant Nyshadham](https://www.anantnn.com/))\\
+_Full funding secured_
 
 
 **Understanding Gendered Differences in Job Search Behavior: Evidence from Urban India** (with [David Sungho Park](https://dshpark.com/) and Monica Shandal)\\
-Pilot completed
+_Pilot completed_
 
 
 **The Girl on the Train: Effect of Delhi Metro Transit System on Women’s Employment** (with Moumita Das)
