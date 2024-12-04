@@ -14,7 +14,7 @@ Email: [rokapoor@ucsc.edu](mailto:rokapoor@ucsc.edu)
 
 I am a PhD Candidate in Economics at the University of California, Santa Cruz. 
 
-My primary fields of interest are Development and Labor Economics. I study topics related to gender, access and physical mobility, primarily in developing countries. 
+My primary fields of interest are Development Economics, Labor Economics, and Applied Microeconomics. I study topics related to gender, access and physical mobility, primarily in developing countries. 
 
 
 **I am on the 2024-25 Economics Job Market.**
