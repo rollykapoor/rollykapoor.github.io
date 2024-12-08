@@ -10,8 +10,8 @@
     In many developing countries, barriers like safety concerns and traditional social norms limit women’s physical mobility. To navigate these barriers, women typically only travel with companions—which could limit their job search if the companions are unavailable. Coordinating travel with job-seeking women could help, but they may not know each other. We address this constraint in a field experiment in urban India. We match job-seeking women within neighborhoods and randomly vary whether they can coordinate their travel to factory interviews by scheduling them on the same date or on different dates. Matching and coordinating travel increases interview attendance by 85%. The effects are stronger for women who knew fewer women at baseline and reported feeling unsafe when traveling. The treatment also improves job search beyond the interview experiment: women are 78% more likely to visit prospective employers and make twice as many trips. We present evidence showing that the effects on interview attendance and job search are driven by women coordinating their travel with each other and that matching without coordination has no effects.
   </p>
 
-<p style="font-size:13px; font-weight: 500; margin-bottom: 0.3cm;"><b>Media Coverage</b></p>
-<p style="font-size:13px; text-align: justify; margin-top: 0.2cm;">
+<p style="font-size:13px; font-weight: 500; margin-bottom: 0.1cm;"><b>Media Coverage</b></p>
+<p style="font-size:13px; text-align: justify; margin-top: 0.1cm;">
   <a href="https://www.mercatus.org/ideasofindia/rolly-kapoor-group-travel-and-womens-job-search-behavior-india">Ideas of India Podcast</a>
 </p>
 
