@@ -39,11 +39,11 @@
 <h2> Works in progress </h2>
 
 **Enhancing Women’s Employment Outcomes: Mitigating Travel Cost and Information Barriers in Employer-Provided Creches** (with [Achyuta Adhvaryu](https://www.achadhvaryu.com/), [Smit Gade](https://goodbusinesslab.org/team/smit-gade-2/), and [Anant Nyshadham](https://www.anantnn.com/))\\
-_Full funding secured:_[BMGF Grand Challenges](https://gcgh.grandchallenges.org/challenge/strengthening-childcare-models-advance-womens-economic-power">BMGF Grand Challenges)
+_Full funding secured:_ Funded by [BMGF Grand Challenges](https://gcgh.grandchallenges.org/challenge/strengthening-childcare-models-advance-womens-economic-power">BMGF Grand Challenges)
 
 
 **Understanding Gendered Differences in Job Search Behavior: Evidence from Urban India** (with [David Sungho Park](https://dshpark.com/) and Monica Shandal)\\
-_Pilot completed_
+_Pilot completed_: Funded by [Weiss Fund](https://weissfund.uchicago.edu/)
 <p style="font-size:13px; font-weight: 500; margin-bottom: 0.1cm;"><b>Funding</b></p>
 <p style="font-size:13px; text-align: justify; margin-top: 0.1cm;">
 <a href="https://weissfund.uchicago.edu/">Weiss Fund</a>
