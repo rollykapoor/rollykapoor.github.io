@@ -17,7 +17,7 @@
 
 <p style="font-size:13px; font-weight: 500; margin-bottom: 0.1cm;"><b>Funding</b></p>
 <p style="font-size:13px; text-align: justify; margin-top: 0.1cm;">
-  <a href="https://blogs.worldbank.org/en/impactevaluations/finding-strength-in-numbers--improving-women-s-job-search-throug">World Bank Blog</a>
+  <a href="https://weissfund.uchicago.edu/">Weiss Fund</a> <a href="https://g2lm-lic.iza.org/projects/gender-parity/together-to-work-role-of-travel-buddies-on-womens-employment-and-mobility/">G2LM|LIC at IZA</a> <a href="https://www.povertyactionlab.org/initiative-project/together-work-role-kith-and-kin-womens-employment-and-mobility">J-PAL GEA</a> <a href="https://labor.ucsc.edu/graduate-student-research-grants/2024-recipients/">UCSC CLC</a> <a href="https://www.surveycto.com/press-releases/2023-grant-winners/">SurveyCTO Research Grant</a> <a href="https://economicjustice.ucsc.edu/">UCSC Blum Center</a>   
 </p>
 
 <br/>
