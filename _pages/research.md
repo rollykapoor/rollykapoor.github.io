@@ -12,9 +12,13 @@
 
 <p style="font-size:13px; font-weight: 500; margin-bottom: 0.1cm;"><b>Media Coverage</b></p>
 <p style="font-size:13px; text-align: justify; margin-top: 0.1cm;">
-  <a href="https://www.mercatus.org/ideasofindia/rolly-kapoor-group-travel-and-womens-job-search-behavior-india">Ideas of India Podcast</a>
+  <a href="https://www.mercatus.org/ideasofindia/rolly-kapoor-group-travel-and-womens-job-search-behavior-india">Ideas of India Podcast</a> <a href="https://www.mercatus.org/ideasofindia/rolly-kapoor-group-travel-and-womens-job-search-behavior-india">Ideas of India Podcast</a>
 </p>
 
+<p style="font-size:13px; font-weight: 500; margin-bottom: 0.1cm;"><b>Funding</b></p>
+<p style="font-size:13px; text-align: justify; margin-top: 0.1cm;">
+  <a href="https://blogs.worldbank.org/en/impactevaluations/finding-strength-in-numbers--improving-women-s-job-search-throug">World Bank Blog</a>
+</p>
 
 <br/>
 
