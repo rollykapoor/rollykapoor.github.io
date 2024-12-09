@@ -41,7 +41,7 @@
 **Enhancing Women’s Employment Outcomes: Mitigating Travel Cost and Information Barriers in Employer-Provided Creches** (with [Achyuta Adhvaryu](https://www.achadhvaryu.com/), [Smit Gade](https://goodbusinesslab.org/team/smit-gade-2/), and [Anant Nyshadham](https://www.anantnn.com/))\\
 _Full funding secured_
 <p style="font-size:13px; font-weight: 500; margin-bottom: 0.1cm;"><b>Funding</b></p>
-<p style="font-size:13px; text-align: justify; margin-top: 0.1cm;">
+<p style="font-size:13px; text-align: justify; margin-top: 0cm;">
   <a href="https://gcgh.grandchallenges.org/challenge/strengthening-childcare-models-advance-womens-economic-power">BMGF Grand Challenges</a> </p>
 
 
