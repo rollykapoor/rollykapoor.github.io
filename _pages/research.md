@@ -13,7 +13,7 @@
 <p style="font-size:13px; font-weight: 500; margin-bottom: 0.1cm;"><b>Coverage</b></p>
 <p style="font-size:13px; text-align: justify; margin-top: 0.1cm;">
   <a href="https://www.mercatus.org/ideasofindia/rolly-kapoor-group-travel-and-womens-job-search-behavior-india">Ideas of India Podcast</a> <a href="https://blogs.worldbank.org/en/impactevaluations/finding-strength-in-numbers--improving-women-s-job-search-throug">World Bank Blog</a>
-  <a href="https://g2lm-lic.iza.org/wp-content/uploads/2025/02/GLMLIC-Policy-Brief_071.pdf">GG2LM|LIC at IZA Policy Brief</a>
+  <a href="https://g2lm-lic.iza.org/wp-content/uploads/2025/02/GLMLIC-Policy-Brief_071.pdf">G2LM|LIC at IZA Policy Brief</a>
 </p>
 
 
