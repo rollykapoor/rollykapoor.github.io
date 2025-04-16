@@ -17,9 +17,8 @@ I am a PhD Candidate in Economics at the University of California, Santa Cruz.
 My primary fields of interest are Development Economics, Labor Economics, and Applied Microeconomics. I study topics related to gender, access and physical mobility, primarily in developing countries. 
 
 
-**I am on the 2024-25 Economics Job Market.**
  
- For my [job market paper](/files/Rolly_Kapoor_JMP.pdf), I investigate how coordinated travel among job-seeking women in India can improve their job search outcomes and employment. 
+ For my [job market paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5113413), I investigate how coordinated travel among job-seeking women in India can improve their job search outcomes and employment. 
 
 
 References: \\
