@@ -2,7 +2,7 @@
 
 <h2> Job Market Paper </h2>
 
-**[Together in Search: Experimental Evidence from Coordinating Travel Among Women Job-Seekers in Urban India](/files/Rolly_Kapoor_JMP.pdf)** (with [Smit Gade](https://goodbusinesslab.org/team/smit-gade-2/)) 
+**[Together in Search: Experimental Evidence from Coordinating Travel Among Women Job-Seekers in Urban India](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5113413)** (with [Smit Gade](https://goodbusinesslab.org/team/smit-gade-2/)) 
 
 
   <summary><strong>Abstract</strong></summary>
