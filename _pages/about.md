@@ -12,18 +12,9 @@ redirect_from:
 Email: [rokapoor@ucsc.edu](mailto:rokapoor@ucsc.edu)
 
 
-I am a PhD Candidate in Economics at the University of California, Santa Cruz. 
+Hi! I am a **Quantitative UX Researcher** within the Monetization organization at **Meta**. I have a PhD in Economics from the University of California Santa Cruz. 
 
-My primary fields of interest are Development Economics, Labor Economics, and Applied Microeconomics. I study topics related to gender, access and physical mobility, primarily in developing countries. 
+My academic research focuses on Development Economics, Labor Economics, and Applied Microeconomics, with a specific emphasis on topics related to gender, access, and physical mobility in developing countries.
 
-
- 
- For my [job market paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5113413), I investigate how coordinated travel among job-seeking women in India can improve their job search outcomes and employment. 
-
-
-References: \\
-Professor [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home) (Advisor) \\
-Professor [Alan Spearot](https://sites.google.com/view/acspearot/home) \\
-Professor [Ajay Shenoy](https://people.ucsc.edu/~azshenoy/) 
 
 
